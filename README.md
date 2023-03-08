@@ -23,6 +23,7 @@
      <samp>
          🛠️Languages and Tools:
      </samp>
+     <br>
     </summary>
     <p>
          <a href="https://nodejs.org/en/" target="blank"><img align=left alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white"></a> <a href="https://www.javascript.com/" target="blank"><img align=left alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a><a href="https://www.typescriptlang.org/" target="blank"><img align=left alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black"></a><a href="https://expressjs.com/" target="blank"><img align=left alt="expressjs" src="https://img.shields.io/badge/-express-grey?logo=express&logoColor=white"></a><a href="https://moleculer.services/" target="blank"><img align=left alt="moleculerjs" src="https://img.shields.io/badge/-moleculer-white?logo=moleculer&logoColor=blue"></a><a href="https://www.python.org/" target="blank"><img align=left alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=yellow"></a><a href="https://www.rust-lang.org/" target="blank"><img align=left alt="rust" src="https://img.shields.io/badge/-rust-white?logo=rust&logoColor=black"></a>
@@ -41,6 +42,7 @@
         <samp>
             💻Most used languages:
         </samp>
+	<br>
     </summary>
     <p>
           <img align=left alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"><img align=left alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
@@ -53,6 +55,7 @@
         <samp>
             🤝Connect with me:
         </samp>
+	<br>
     </summary>
     <p align="left">
   <a href="https://www.linkedin.com/in/azita-abdollahi//" target="blank"><img src="https://img.shields.io/badge/-blue?logo=linkedin&logoColor=white"</a>
